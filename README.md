@@ -35,4 +35,6 @@ print(value)
 + $h: hour
 + $m: minute
 + $s: seconds
-  
+
+## is Objects
+++ These are get an input and compare with the system time
