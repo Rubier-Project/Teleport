@@ -1,7 +1,7 @@
 # Teleporter Documention
 
 ## import
-```
+```python3
 from teleporter import TeleporterTime
 ```
 ## get stamp time
