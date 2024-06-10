@@ -1,4 +1,3 @@
-# the [TelePorter] source
 import time
 import pkg_resources
 import os
